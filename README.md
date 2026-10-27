@@ -1,5 +1,8 @@
+<!-- <img width="100%" height="auto" src="https://media.licdn.com/dms/image/v2/D5616AQER5D136C5C1g/profile-displaybackgroundimage-shrink_200_800/B56aDvYLLhIMAQ-/0/1790722487324?e=1794441600&v=beta&t=RY_XqvEJR35kJKqAesMA43JE6qKh_XIWz1LkPWi9rtU"/> -->
+
 <h1 align="center"><b>Hi , I'm Juan López </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<hr>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome&hearts;++;I'm+a+Web+Developer+;Computer+Science+Student"></a>
 </p>
@@ -13,13 +16,13 @@
 <h3 align="center">IT Student | Web Developer | UI/UX Designer</h3>
 <p align="center">
   <em>
-    Currently pursuing a Bachelor's Degree at <b>Universidad Tecnologica General Mariano Escobedo</b>.</a><br>
-    Working, learning, and <b>open to new opportunities</b>.<br>
-    Focused on building modern web applications and intuitive user experiences. Building projects, exploring new technologies, 
-    and seeking opportunities to grow professionally and contribute to meaningful teams.
+    Software Developer experienced in building client-server web applications using Next.js, React, TypeScript, Node.js and PostgreSQL. Hands-on experience  
+    designing software architecture, developing REST APIs, implementing authentication systems, modeling relational databases, deploying web applications
+    and producing technical documentation.
   </em> 
 </p>
 <div align="center">
+  
 <h2>Connect with me!</h2>
   
 <a href="https://www.linkedin.com/in/juan-lópez-a31506319/" target="_blank">
@@ -43,8 +46,8 @@
   </a>
 </div> -->
 
-<h3 align="center">Tech Stack</h3>
 <hr>
+<h3 align="center">Tech Stack</h3>
 
 ### 🔠 Languages
 <div>
